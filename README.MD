@@ -6,7 +6,7 @@ LPU Project is a full-stack web application built using the MERN (MongoDB, Expre
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Random-Color-Generator-JavaScript-Project/master/RANDOM%20COLOR%20GENERATOR%20JAVASCRIPT%20PROJECT.png)
+![App Screenshot](https://raw.githubusercontent.com/Satendra70/LPU-Project/master/LPU%20PROJECT.png)
 
 ### [Video Link](#hshs)
 
